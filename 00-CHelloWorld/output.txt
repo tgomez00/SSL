@@ -1,0 +1,8 @@
+Iniciando la compilación...
+C:\mingw64\bin\gcc.exe -g D:\SSL\SSL\00-CHelloWorld\hello.c -o D:\SSL\SSL\00-CHelloWorld\hello.exe
+La compilación finalizó correctamente.
+
+Terminal will be reused by tasks, press any key to close it.
+PS D:\SSL\SSL\00-CHelloWorld>  & 'c:\Users\tomig\.vscode\extensions\ms-vscode.cpptools-1.2.2\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-dnmkbg03.qam' '--stdout=Microsoft-MIEngine-Out-kc5lij4f.ai1' '--stderr=Microsoft-MIEngine-Error-swao3zuy.riq' '--pid=Microsoft-MIEngine-Pid-1fbbzfbo.j2a' '--dbgExe=C:\mingw64\bin\gdb.exe' '--interpreter=mi' 
+Hello World!!! 
+Presione una tecla para continuar . . .
