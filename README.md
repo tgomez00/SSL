@@ -2,9 +2,9 @@
 Repositorio para la materia de Sintaxis y Semántica de los Lenguajes
 
 ## Transformacion de Codigo Fuente a Ejecutable
-     ## Entradas
+   - ## Entradas
       ###### PROCESOS -> PREPROCESADOR -> COMPILADOR -> ASSEMBLER -> LINKER -> EJECUCION
 
-     ## Resultados
-      ###### FUENTE -> FUENTE PREPROCESADO -> CÓDIGO ENSAMBLADOR -> CÓDIGO OBJETO ->EJECUTABLE
+   - ## Resultados
+     ###### FUENTE -> FUENTE PREPROCESADO -> CÓDIGO ENSAMBLADOR -> CÓDIGO OBJETO ->EJECUTABLE
 
